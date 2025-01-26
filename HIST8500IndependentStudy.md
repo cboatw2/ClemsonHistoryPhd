@@ -1,1 +1,0 @@
-This independent study will review skills learned in HIST8500 as well as learning Hugo and web scraping. The project will be a network analysis of the Woodland Cemetery dataset.
